@@ -30,7 +30,7 @@ file_10: KARLINA_OBJECT-main.zip // SHA-256: c061b3183a087834567cff509303f6d6cb4
 
 file_11: karbytes_23AndMe_Ancestry_Data-main.zip // SHA-256: 5ebb70778d901ec6630dcee2eab1d53657aebe31bb210940a698049d78e5f6ec
 
-file_12: KARLINA_OBJECT_extension_pack_59-main_03march2026.zip // SHA-256: 1b54d6598aa6f8410fd28803a22c6443dcdefa425f650d7a80abb10c92fa746d
+file_12: KARLINA_OBJECT_extension_pack_59-main_03march2026.zip // SHA-256: bf9a8a83edaec54035f980532405204ccdf400f97ffdfb0fb0fa1ab8e0d21ebf
 
 file_13: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: 78a2da229d94f28967ea1c8e2dc59600d83f333a14b5beef0a86f00408c52ffb
 
