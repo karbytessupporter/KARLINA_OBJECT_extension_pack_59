@@ -38,7 +38,7 @@ file_14: reference_human_genome_fasta_hg38-main.zip // SHA-256: f8f0dee1f4317950
 
 file_15: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: 7d55574c84f0098625bcae823901fd088e8290929ce7e1f0b2e5bc28fc301818
 
-file_16: KARLINA_OBJECT_extension_pack_59-main_05march2026.zip // SHA-256: c35b6748b94d29dc5e12a85573cb37868f12c841d1fd4f1700b63cfa631359af
+file_16: KARLINA_OBJECT_extension_pack_59-main_05march2026.zip // SHA-256: cda2dfc04413c661bbc8d07efc0bb9d50737e249c459edfc9c634bc4649c6e6b
 
 file_17: karbytes_basement_49-main.zip // SHA-256: 57276dbc33bb32ead9af25f70209fd61bdf658d1b11ad78cb8c19b31aec9e67d
 
