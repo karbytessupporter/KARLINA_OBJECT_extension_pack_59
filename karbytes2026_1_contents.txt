@@ -38,7 +38,7 @@ file_14: reference_human_genome_fasta_hg38-main.zip // 937.32 megabytes
 
 file_15: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
-file_16: KARLINA_OBJECT_extension_pack_59-main_05march2026.zip // 62.68 megabytes
+file_16: KARLINA_OBJECT_extension_pack_59-main_05march2026.zip // 107.60 megabytes
 
 file_17: karbytes_basement_49-main.zip // 0.17 megabytes
 
@@ -78,6 +78,6 @@ file_33: karbytes_basement_50-main.zip // 5.86 megabytes
 
 Total number of files: 34
 
-Total folder size: 20250.12 megabytes
+Total folder size: 20295.04 megabytes
 
 --------------------------------
