@@ -28,7 +28,7 @@ file_9: KARBYTES_BLOG_APPS_github_hosted_website-main_02december2025.zip // SHA-
 
 file_10: KARLINA_OBJECT-main.zip // SHA-256: c061b3183a087834567cff509303f6d6cb49cd7510c3e165760975d177f1c579
 
-file_11: KARLINA_OBJECT_extension_pack_59-main_10march2026.zip // SHA-256: 369f7e81f5d4b855fb08f3a522a82546eb2d3df7b181356facc8356b2d284014
+file_11: KARLINA_OBJECT_extension_pack_59-main_10march2026.zip // SHA-256: 6cc830b9844c558f46ea562da2468eeb5592a9d5d4af68b33ff197f1396986d6
 
 file_12: karbytes_23AndMe_Ancestry_Data-main.zip // SHA-256: 5ebb70778d901ec6630dcee2eab1d53657aebe31bb210940a698049d78e5f6ec
 
