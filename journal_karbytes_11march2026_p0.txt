@@ -6,16 +6,16 @@
  * license: PUBLIC_DOMAIN
  */
 
-12_MARCH_2026 UPDATE: I decided to postpone the "hiatus" mentioned in this journal entry by two days (such that the "hiatus period" now begins at 11:59PM Pacific Standard Time on 12_MARCH_2026). 
+12_MARCH_2026 UPDATE: I decided to postpone the “hiatus” mentioned in this journal entry by two days (such that the “hiatus period” now begins at 11:59PM Pacific Standard Time on 12_MARCH_2026).
 
 * * *
 
-What I've decided to do today (i.e. 11_MARCH_2026) is go on a "hiatus" from updating "the canon karbytes" file collection for the remainder of this month.
+What I’ve decided to do today (i.e. 11_MARCH_2026) is go on a “hiatus” from updating “the canon karbytes” file collection for the remainder of this month.
 
-That particular "hiatus period" began officially at 11:59PM Pacific Standard Time on 10_MARCH_2026. At that "point in time", at least four M_DISC copies of the file collection named "karbytes_nexus_[10mar2026]" was created by me. Also, at that "point in time", at least three M_DISC copies of the file collection named "karbytes2025_22" (i.e. "karbytes_origins" was created).
+That particular “hiatus period” began officially at 11:59PM Pacific Standard Time on 10_MARCH_2026. At that “point in time”, at least four M_DISC copies of the file collection named “karbytes_nexus_[10mar2026]” were created by me. Also, at that “point in time”, at least three M_DISC copies of the file collection named “karbytes2025_22” (i.e. “karbytes_origins”) were created by me.
 
-(Each of the aforementioned M_DISCs were "read tested" after being created (i.e. data written to it). A "read test" consists of copying the entire data contents of the respective M_DISC to the Desktop file directory of a Linux operating system laptop computer (to ensure that all the zip files in that collection are perfectly identical to their public web hosted counterparts (which is encompassed by the aforementioned file collection referred to as "the canon karbytes"))).
+(Each of the aforementioned M_DISCs were “read tested” after being created (i.e. data written to it). A “read test” consists of copying the entire data contents of the respective M_DISC to the Desktop file directory of a Linux operating system laptop computer (to ensure that all the zip files in that collection are perfectly identical to their public web hosted counterparts (which is encompassed by the aforementioned file collection referred to as “the canon karbytes”))).
 
-The aforementioned file collection named "karbytes_nexus_[10mar2026]" is a sub-25 gigabyte collection of files which are part of "the canon karbytes" created after 11:59PM Pacific Standard Time on 31_DECEMBER_2025 and before 11:59PM Pacific Standard Time on 10_MARCH_2026.
+The aforementioned file collection named “karbytes_nexus_[10mar2026]” is a sub-25 gigabyte collection of files which are part of “the canon karbytes” created after 11:59PM Pacific Standard Time on 31_DECEMBER_2025 and before 11:59PM Pacific Standard Time on 10_MARCH_2026.
 
-The aforementioned file collection named "karbytes_origins" is a sub-25 gigabyte collection of files which are part of "the canon karbytes" created before 11:59PM Pacific Standard Time on 31_DECEMBER_2025 and after 11:59PM Pacific Standard Time on 03_APRIL_2020.
+The aforementioned file collection named “karbytes_origins” is a sub-25 gigabyte collection of files which are part of “the canon karbytes” created before 11:59PM Pacific Standard Time on 31_DECEMBER_2025 and after 11:59PM Pacific Standard Time on 03_APRIL_2020.
