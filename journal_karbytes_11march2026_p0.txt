@@ -1,12 +1,12 @@
 /**
  * file: journal_karbytes_11march2026_p0.txt
  * type: plain-text
- * date: 12_MARCH_2026
+ * date: 14_MARCH_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-12_MARCH_2026 UPDATE: I decided to postpone the “hiatus” mentioned in this journal entry by two days (such that the “hiatus period” now begins at 11:59PM Pacific Standard Time on 12_MARCH_2026).
+14_MARCH_2026 UPDATE: I decided to postpone the “hiatus” mentioned in this journal entry by two days (such that the “hiatus period” now begins at 11:59PM Pacific Standard Time on 14_MARCH_2026). That “hiatus period” is expected to last for the remainder of March 2026 and likely for up to two weeks into April 2026.
 
 * * *
 
@@ -20,4 +20,4 @@ The aforementioned file collection named “karbytes_nexus_[10mar2026]” is a s
 
 The aforementioned file collection named “karbytes_origins” is a sub-25 gigabyte collection of files which are part of “the canon karbytes” created before 11:59PM Pacific Standard Time on 16_NOVEMBER_2025 and after 11:59PM Pacific Standard Time on 03_APRIL_2020.
 
-(Note that the M_DISC catalog of karbytes_origins contents (at the following URL) erroneously says that the catalog describes “the canon karbytes” as that file collection is configured at 11:59PM Pacific Standard Time on 31_DECEMBER_2025 when, in reality, “karbytes_origins” is a snapshot of the entire “canon karbytes” file collection as it was configured at 11:59PM Pacific Standard Time on 16_NOVEMBER_2025. That date labeling error in that M_DISC log remains for historical accuracy and for ease of maintaining the entire karbytes file collection and archival media as those infrastructures grow larger over time: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_22/). 
+(Note that the M_DISC catalog of karbytes_origins contents (at the following URL) erroneously says that the catalog describes “the canon karbytes” as that file collection is configured at 11:59PM Pacific Standard Time on 31_DECEMBER_2025 when, in reality, “karbytes_origins” is a snapshot of the entire “canon karbytes” file collection as it was configured at 11:59PM Pacific Standard Time on 16_NOVEMBER_2025. That date labeling error in that M_DISC log remains for historical accuracy and for ease of maintaining the entire karbytes file collection and archival media as those infrastructures grow larger over time: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_22/).
